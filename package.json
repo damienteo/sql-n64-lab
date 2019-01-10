@@ -1,0 +1,20 @@
+{
+  "name": "sql-n64-lab",
+  "version": "1.0.0",
+  "description": "![](http://i.giphy.com/KMrye8vZpv6py.gif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damienteo/sql-n64-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damienteo/sql-n64-lab/issues"
+  },
+  "homepage": "https://github.com/damienteo/sql-n64-lab#readme"
+}
